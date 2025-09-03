@@ -6,7 +6,7 @@ const clientReviewsContent = [
     image: "/client-reviews/client-review-1.jpg",
     avatar: "/clients/client-1.jpg",
     review:
-      "The design feels deeply personal, as if it grew from the way we live. The flow of each room, the light at different hours, everything was thought through with remarkable care and clarity.",
+      "The design feels intimately connected to our lifestyle. The flow of each room and the changing light throughout the day were all considered with exceptional care and clarity.",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const clientReviewsContent = [
     image: "/client-reviews/client-review-2.jpg",
     avatar: "/clients/client-2.jpg",
     review:
-      "We expected something beautiful, but what we received was a place that completely reshaped our sense of comfort. It feels open, serene, and in perfect conversation.",
+      "We hoped for beauty, but what we received was a sanctuary that reshaped our entire sense of comfort—open, serene, and perfectly in tune with our needs.",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const clientReviewsContent = [
     image: "/client-reviews/client-review-3.jpg",
     avatar: "/clients/client-3.jpg",
     review:
-      "Every material, every proportion, every finish feels intentional. The spaces carry a timeless quality that makes the home feel complete from the moment we stepped inside.",
+      "Every material, proportion, and finish was carefully considered. The spaces hold a timeless quality that made the home feel complete the moment we entered.",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const clientReviewsContent = [
     image: "/client-reviews/client-review-4.jpg",
     avatar: "/clients/client-4.jpg",
     review:
-      "From first conversation to final delivery, the process was thoughtful and exact. Each stage revealed a design that was both surprising and completely aligned with how we wanted to live.",
+      "From our first conversation through to completion, the process was thoughtful and precise. Each phase revealed a design that was both unexpected and perfectly aligned with our lifestyle.",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const clientReviewsContent = [
     image: "/client-reviews/client-review-5.jpg",
     avatar: "/clients/client-5.jpg",
     review:
-      "What we have now feels more than just a home. It carries a quiet elegance that has transformed our daily life. Every detail has purpose, and the whole space feels seamless and resolved.",
+      "What we have now is more than a home—it is a quiet elegance that has transformed our everyday experience. Every detail serves a purpose, creating a seamless and harmonious space.",
   },
 ];
 

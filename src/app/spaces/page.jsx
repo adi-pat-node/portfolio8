@@ -95,7 +95,7 @@ const page = () => {
             <div className="prop-col"></div>
             <div className="prop-col">
               <Copy delay={1}>
-                <h1>Timeless Spaces</h1>
+                <h1>Classic Interiors</h1>
               </Copy>
               <div className="prop-filters">
                 <div className="filter default">

@@ -18,18 +18,18 @@ const page = () => {
             <div className="studio-hero-col">
               <Copy delay={0.85}>
                 <p>
-                  We see design as more than construction. It is an ongoing
-                  dialogue between people, material, and place, shaped with
-                  care, and built to endure.
+                  Design is more than building; it's a continuous conversation
+                  between people, materials, and place—crafted with intention
+                  and built to last.
                 </p>
               </Copy>
             </div>
             <div className="studio-hero-col">
               <Copy delay={0.85}>
                 <h2>
-                  Our studio exists to create spaces that feel honest, lived in,
-                  and quietly transformative. Every project begins with
-                  listening and ends with an environment.
+                  Our studio is dedicated to crafting spaces that are authentic,
+                  welcoming, and subtly transformative. Each project starts with
+                  listening and culminates in a meaningful environment.
                 </h2>
               </Copy>
               <div className="studio-hero-hero-img">
@@ -43,32 +43,32 @@ const page = () => {
             <div className="more-facts-items">
               <div className="fact">
                 <Copy delay={0.1}>
-                  <p>Models crafted</p>
-                  <h2>120+</h2>
+                  <p>Sculpted forms</p>
+                  <h2>100+</h2>
                 </Copy>
               </div>
               <div className="fact">
                 <Copy delay={0.2}>
-                  <p>Materials explored</p>
-                  <h2>60</h2>
+                  <p>Material studies</p>
+                  <h2>50</h2>
                 </Copy>
               </div>
               <div className="fact">
                 <Copy delay={0.3}>
-                  <p>Workshops hosted</p>
-                  <h2>25+</h2>
+                  <p>Sessions hosted</p>
+                  <h2>20+</h2>
                 </Copy>
               </div>
               <div className="fact">
                 <Copy delay={0.4}>
                   <p>Hours logged</p>
-                  <h2>3k+</h2>
+                  <h2>2k+</h2>
                 </Copy>
               </div>
               <div className="fact">
                 <Copy delay={0.5}>
-                  <p>Prototypes build</p>
-                  <h2>724</h2>
+                  <p>Designs realized</p>
+                  <h2>675</h2>
                 </Copy>
               </div>
             </div>
@@ -82,8 +82,8 @@ const page = () => {
         <CTAWindow
           img="/studio/about-cta-window.jpg"
           header="The Archive"
-          callout="Designs that speak through form"
-          description="Each project tells a story of light, material, and rhythm. Explore how ideas take shape and grow into lasting environments."
+          callout="Forms that tell a story"
+          description="Each design reveals a story woven from light, texture, and movement. See how ideas transform into lasting environments"
         />
         <Spotlight />
       </div>

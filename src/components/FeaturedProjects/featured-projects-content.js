@@ -1,30 +1,30 @@
 const featuredProjectsContent = [
   {
-    info: "An immersive lounge built around a central tree",
+    info: "An immersive lounge built around a majestic tree",
     title: "Sanctum Hall",
     description:
-      "Circular seating, arched openings, and natural textures create a serene gathering space. The design balances monumentality with intimacy, framing nature as the focal point.",
+      "Curved seating, arched openings, and natural materials craft a tranquil gathering space. The design harmonizes monumentality with intimacy, placing nature at its heart.",
     image: "/featured-projects/featured-work-1.jpg",
   },
   {
-    info: "A private retreat defined by water and sun",
+    info: "A secluded retreat shaped by water and sunlight",
     title: "Desert Poolhouse",
     description:
-      "Soft stucco walls, a lone palm, and an open sky bring elemental simplicity. The still surface of the pool becomes both mirror and threshold, blurring enclosure and openness.",
+      "Soft stucco surfaces, a solitary palm, and expansive skies embody elemental simplicity. The calm pool surface acts as both mirror and threshold, blending enclosure with openness.",
     image: "/featured-projects/featured-work-2.jpg",
   },
   {
-    info: "A cloister-inspired courtyard with generous arches",
-    title: "Arcade Residence",
+    info: "A courtyard inspired by cloisters, featuring graceful arches",
+    title: "Regal Residence",
     description:
-      "Rhythmic colonnades and layered seating zones encourage calm gatherings. Textured stone and filtered light evoke both permanence and ease, rooted in classical geometry.",
+      "Rhythmic colonnades and layered seating invite peaceful gatherings. Textured stone and filtered light evoke permanence and ease, grounded in classical geometry.",
     image: "/featured-projects/featured-work-3.jpg",
   },
   {
-    info: "A refined interior anchored by symmetry and light",
+    info: "A refined interior defined by symmetry and luminous light",
     title: "Atrium Gallery",
     description:
-      "A quiet procession of columns and a sculptural centerpiece guide the eye toward framed views. Warm plaster walls and soft daylight create a setting of contemplative elegance.",
+      "A serene procession of columns and a sculptural centerpiece draw the eye to framed views. Warm plaster walls and soft daylight create an atmosphere of contemplative elegance.",
     image: "/featured-projects/featured-work-4.jpg",
   },
 ];

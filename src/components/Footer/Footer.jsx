@@ -52,11 +52,11 @@ const Footer = () => {
             <div className="footer-meta-block">
               <div className="footer-meta-logo">
                 <Copy delay={0.1}>
-                  <h3 className="lg">Terrene</h3>
+                  <h3 className="lg">Toréne</h3>
                 </Copy>
               </div>
               <Copy delay={0.2}>
-                <h2>Spaces made simple, thoughtful, lasting.</h2>
+                <h2>Spaces crafted with simplicity, care, and endurance</h2>
               </Copy>
             </div>
           </div>
@@ -141,8 +141,8 @@ const Footer = () => {
           <div className="footer-meta-col">
             <Copy delay={0.1}>
               <p>
-                We believe design is not decoration but the quiet structure that
-                shapes experience.
+                We see design not as decoration, but as the subtle framework
+                that shapes experience.
               </p>
             </Copy>
           </div>
@@ -154,11 +154,9 @@ const Footer = () => {
             <img src="/logos/terrene-footer-logo.svg" alt="" />
           </div>
           <div className="footer-copyright">
-            <p>
-              Developed by — <span>Codegrid</span>
-            </p>
-            <p>This website is using cookies.</p>
+            <p></p>
             <p>All rights reserverd &copy; 2025</p>
+            <p></p>
           </div>
         </div>
       </div>

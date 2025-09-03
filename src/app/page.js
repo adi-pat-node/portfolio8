@@ -171,11 +171,11 @@ export default function Home() {
           <div className="intro-logo">
             <div className="word" id="word-1">
               <h1>
-                <span>Terrene</span>
+                <span>Toréne</span>
               </h1>
             </div>
             <div className="word" id="word-2">
-              <h1>Balance</h1>
+              <h1>Harmony</h1>
             </div>
           </div>
           <div className="divider"></div>
@@ -236,14 +236,16 @@ export default function Home() {
           <div className="hero-content">
             <div className="hero-header">
               <Copy animateOnScroll={false} delay={showPreloader ? 10 : 0.85}>
-                <h1>Spaces that feel rooted, human, and quietly bold</h1>
+                <h1>
+                  Spaces that embody connection, comfort, and gentle boldness
+                </h1>
               </Copy>
             </div>
             <div className="hero-tagline">
               <Copy animateOnScroll={false} delay={showPreloader ? 10.15 : 1}>
                 <p>
-                  At Terrene, we shape environments that elevate daily life,
-                  invite pause, and speak through texture and light.
+                  At Toréne, we design environments that enhance daily living,
+                  inspire calm, and communicate through material and light.
                 </p>
               </Copy>
             </div>
@@ -260,7 +262,7 @@ export default function Home() {
             <div className="stat">
               <div className="stat-count">
                 <Copy delay={0.1}>
-                  <h2>225+</h2>
+                  <h2>485+</h2>
                 </Copy>
               </div>
               <div className="stat-divider"></div>
@@ -273,26 +275,26 @@ export default function Home() {
             <div className="stat">
               <div className="stat-count">
                 <Copy delay={0.2}>
-                  <h2>36</h2>
+                  <h2>18</h2>
                 </Copy>
               </div>
               <div className="stat-divider"></div>
               <div className="stat-info">
                 <Copy delay={0.25}>
-                  <p>Ongoing spatial explorations</p>
+                  <p>Evolving studies of space</p>
                 </Copy>
               </div>
             </div>
             <div className="stat">
               <div className="stat-count">
                 <Copy delay={0.3}>
-                  <h2>12</h2>
+                  <h2>10</h2>
                 </Copy>
               </div>
               <div className="stat-divider"></div>
               <div className="stat-info">
                 <Copy delay={0.35}>
-                  <p>Cross-disciplinary collaborators</p>
+                  <p>Interdisciplinary partners</p>
                 </Copy>
               </div>
             </div>
@@ -318,9 +320,8 @@ export default function Home() {
             <Copy delay={0.1}>
               <h1>
                 <span className="spacer">&nbsp;</span>
-                At Terrene, we design with purpose and clarity, creating spaces
-                that speak through light, scale, and the quiet confidence of
-                lasting form.
+                At Toréne, purposeful design meets clarity to create spaces that
+                resonate through light, scale, and timeless presence.
               </h1>
             </Copy>
           </div>
@@ -332,32 +333,32 @@ export default function Home() {
 
               <Copy delay={0.15}>
                 <p className="lg">
-                  We approach each build with a clarity of intent. Every plan is
-                  shaped through research, iteration, and conversation. What
-                  remains is the essential, designed to last and built to feel
-                  lived in.
+                  Each build starts with purposeful clarity. Through research,
+                  iteration, and conversation, we refine every plan to its core
+                  essence, creating spaces meant to last and feel warmly
+                  inhabited.
                 </p>
               </Copy>
             </div>
             <div className="what-we-do-col">
               <div className="what-we-do-tags" ref={tagsRef}>
                 <div className="what-we-do-tag">
-                  <h3>Quiet</h3>
+                  <h3>Serene</h3>
                 </div>
                 <div className="what-we-do-tag">
                   <h3>View</h3>
                 </div>
                 <div className="what-we-do-tag">
-                  <h3>Tactile</h3>
+                  <h3>Textural</h3>
                 </div>
                 <div className="what-we-do-tag">
                   <h3>Light-forward</h3>
                 </div>
                 <div className="what-we-do-tag">
-                  <h3>Slow design</h3>
+                  <h3>Intentional Pace</h3>
                 </div>
                 <div className="what-we-do-tag">
-                  <h3>Modular rhythm</h3>
+                  <h3>Measured rhythm</h3>
                 </div>
               </div>
             </div>
@@ -382,7 +383,7 @@ export default function Home() {
       <section className="client-reviews-container">
         <div className="container">
           <div className="client-reviews-header-callout">
-            <p>Voices from our spaces</p>
+            <p>Stories from within</p>
           </div>
           <ClientReviews />
         </div>
@@ -397,8 +398,8 @@ export default function Home() {
               <div className="gallery-callout-img gallery-callout-img-2">
                 <img src="/gallery-callout/gallery-callout-2.jpg" alt="" />
                 <div className="gallery-callout-img-content">
-                  <h3>800+</h3>
-                  <p>Project Images</p>
+                  <h3>700+</h3>
+                  <p>Project Gallery</p>
                 </div>
               </div>
             </div>
@@ -415,10 +416,9 @@ export default function Home() {
             <div className="gallery-callout-copy">
               <Copy delay={0.1}>
                 <h3>
-                  Take a closer look at the projects that define our practice.
-                  From intimate interiors to expansive landscapes, each image
-                  highlights a unique perspective that might spark your next big
-                  idea.
+                  Explore the projects that shape our practice. From cozy
+                  interiors to vast landscapes, each image offers a distinct
+                  perspective that could ignite your next great idea.
                 </h3>
               </Copy>
               <AnimatedButton label="Explore Gallery" route="blueprints" />
@@ -428,9 +428,9 @@ export default function Home() {
       </section>
       <CTAWindow
         img="/home/home-cta-window.jpg"
-        header="Terrene"
-        callout="Spaces that breathe with time"
-        description="Our approach is guided by rhythm, proportion, and light, allowing every environment to grow more meaningful as it is lived in."
+        header="Toréne"
+        callout="Spaces that evolve gracefully"
+        description="Our process is led by rhythm, proportion, and light, shaping environments that deepen in meaning with time and use."
       />
       <ConditionalFooter />
     </>

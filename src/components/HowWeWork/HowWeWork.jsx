@@ -112,13 +112,13 @@ const HowWeWork = () => {
           <div className="how-we-work-header-content">
             <div className="how-we-work-header-callout">
               <Copy delay={0.1}>
-                <p>Process in focus</p>
+                <p>How we work</p>
               </Copy>
             </div>
             <Copy delay={0.15}>
               <h3>
-                From first sketches to final details, our process is shaped to
-                bring clarity and rhythm
+                From initial sketches to final touches, our process is designed
+                to create clarity and rhythm.
               </h3>
             </Copy>
             <div className="how-we-work-steps" ref={stepsRef}>
@@ -165,12 +165,12 @@ const HowWeWork = () => {
           </div>
           <div className="how-we-work-card-copy">
             <div className="how-we-work-card-index-label">
-              <h3>Discovery / Context</h3>
+              <h3>Research / Setting</h3>
             </div>
             <p className="md">
-              We begin with listening and study. Site, climate, and daily
-              routines inform the brief so we can define aims, constraints, and
-              measures of success with clarity.
+              We start by listening and studying. The site, climate, and daily
+              rhythms shape the brief, helping us clearly define goals,
+              limitations, and success criteria.
             </p>
           </div>
         </div>
@@ -180,12 +180,12 @@ const HowWeWork = () => {
           </div>
           <div className="how-we-work-card-copy">
             <div className="how-we-work-card-index-label">
-              <h3>Principles / Direction</h3>
+              <h3>Values / Vision</h3>
             </div>
             <p className="md">
-              We set guiding principles for light, massing, and flow. Quick
-              models and diagrams test options and reveal the direction that
-              best serves the brief.
+              We establish guiding principles around light, form, and movement.
+              Rapid models and diagrams explore possibilities, revealing the
+              direction that best fulfills the brief.
             </p>
           </div>
         </div>
@@ -195,12 +195,12 @@ const HowWeWork = () => {
           </div>
           <div className="how-we-work-card-copy">
             <div className="how-we-work-card-index-label">
-              <h3>Detail / Coordination</h3>
+              <h3>Precision / Integration</h3>
             </div>
             <p className="md">
-              We develop drawings and specifications across structure, services,
-              and joinery. Materials and samples are reviewed in natural light
-              while budget and timeline stay in view.
+              Drawings and specifications for structure, services, and joinery
+              are developed in tandem. Materials and samples are reviewed under
+              natural light, all while keeping budget and schedule in check.
             </p>
           </div>
         </div>
@@ -210,12 +210,12 @@ const HowWeWork = () => {
           </div>
           <div className="how-we-work-card-copy">
             <div className="how-we-work-card-index-label">
-              <h3>Build / Handover</h3>
+              <h3>Construction / Delivery</h3>
             </div>
             <p className="md">
-              We oversee construction with care and precision. After final
-              review and finishing, we hand over a space that is ready to live
-              in, complete with guidance for long term care.
+              Construction is overseen with precision and care. After thorough
+              review and completion, we deliver a home that is move-in ready,
+              accompanied by advice for ongoing maintenance.
             </p>
           </div>
         </div>

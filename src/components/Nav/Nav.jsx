@@ -282,13 +282,13 @@ const Nav = () => {
               <div className="sub-col">
                 <div className="menu-meta menu-commissions">
                   <p>Commissions</p>
-                  <p>build@terrene.studio</p>
-                  <p>+1 (872) 441‑2086</p>
+                  <p>build@torene.studio</p>
+                  <p>+1 (872) 441-2086</p>
                 </div>
                 <div className="menu-meta">
-                  <p>Studio Address</p>
-                  <p>18 Cordova Lane</p>
-                  <p>Seattle, WA 98101</p>
+                  <p>Office Address</p>
+                  <p>600 3rd Ave</p>
+                  <p>New York, NY 10017</p>
                 </div>
               </div>
               <div className="sub-col">

@@ -15,7 +15,7 @@ const page = () => {
             <div className="contact-col">
               <div className="contact-hero-header">
                 <Copy delay={0.85}>
-                  <h1>All spaces begin with intention</h1>
+                  <h1>Every space starts with a purpose</h1>
                 </Copy>
               </div>
               <div className="contact-copy-year">
@@ -29,28 +29,27 @@ const page = () => {
                 <div className="contact-info-block">
                   <Copy delay={0.85}>
                     <p>General</p>
-                    <p>desk@terrene.studio</p>
+                    <p>desk@toréne.studio</p>
                   </Copy>
                 </div>
                 <div className="contact-info-block">
                   <Copy delay={1}>
-                    <p>New Commissions</p>
-                    <p>build@terrene.studio</p>
-                    <p>+1 (872) 441‑2086</p>
+                    <p>Recent Work</p>
+                    <p>build@toréne.studio</p>
+                    <p>+1 (872) 441-2086</p>
                   </Copy>
                 </div>
                 <div className="contact-info-block">
                   <Copy delay={1.15}>
-                    <p>Studio Address</p>
-                    <p>18 Cordova Lane</p>
-                    <p>Seattle, WA 98101</p>
+                    <p>Office Address</p>
+                    <p>600 3rd Ave</p>
+                    <p>New York, NY 10017</p>
                   </Copy>
                 </div>
                 <div className="contact-info-block">
                   <Copy delay={1.3}>
                     <p>Social</p>
                     <p>Instagram</p>
-                    <p>Are.na</p>
                     <p>LinkedIn</p>
                   </Copy>
                 </div>
@@ -58,7 +57,7 @@ const page = () => {
               <div className="contact-img">
                 <img
                   src="/contact/contact-img.jpg"
-                  alt="Terrene studio workspace"
+                  alt="Toréne studio workspace"
                 />
               </div>
             </div>
