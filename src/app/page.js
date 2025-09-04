@@ -171,11 +171,11 @@ export default function Home() {
           <div className="intro-logo">
             <div className="word" id="word-1">
               <h1>
-                <span>Toréne</span>
+                <span>Toréne </span>
               </h1>
             </div>
             <div className="word" id="word-2">
-              <h1>Harmony</h1>
+              <h1>Balance</h1>
             </div>
           </div>
           <div className="divider"></div>
